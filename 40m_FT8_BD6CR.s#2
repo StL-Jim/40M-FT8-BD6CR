@@ -21509,7 +21509,11 @@ Number of pins: &lt;b&gt;2&lt;/b&gt;&lt;b&gt;&lt;P&gt;
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.762" drill="0">
+<clearance class="0" value="0.762"/>
+</class>
+<class number="1" name="Jim" width="0.9144" drill="0">
+<clearance class="1" value="0.9144"/>
 </class>
 </classes>
 <parts>
